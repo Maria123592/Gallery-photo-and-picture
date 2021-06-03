@@ -1,0 +1,108 @@
+*{
+   margin:0px;
+   padding:0px;
+}
+
+#mlechnyj_put
+{
+  width: 100%;
+  height:100px; 
+  background: url(nochnoe_nebo.jpg) no-repeat;
+}
+
+#kartina01
+{
+  width: 900px;
+  height:700px;
+  top:0px;
+  background: url(Starry Night.jpg) no-repeat;
+}
+
+#picture02
+{
+  width: 700px;
+  height:850px;
+  top:0px;
+  background: url(Lady Agnew of Lohno.jpg) no-repeat;
+}
+
+*{
+   margin:0px;
+   padding:0px;
+}
+
+#picture03
+{
+  width: 700px;
+  height:650px;
+  top:0px;
+  background: url(Impression of the Rising Sun.jpg) no-repeat;
+}
+
+*{
+   margin:0px;
+   padding:0px;
+}
+
+#picture04
+{
+  width: 700px;
+  height:700px;
+  top:0px;
+  background: url(The Persistence of Memory.jpg) no-repeat;
+}
+
+*{
+   margin:0px;
+   padding:0px;
+}
+
+#picture05
+{
+  width: 600px;
+  height:900px;
+  top:0px;
+  background: url(Mona lisa.jpg) no-repeat;
+}
+
+*{
+   margin:0px;
+   padding:0px;
+}
+
+#picture06
+{
+  width:900px;
+  height:900px;
+  top:0px;
+  background: url(Twilight.jpg) no-repeat;
+}
+
+*{
+   margin:0px;
+   padding:0px;
+}
+
+#picture06
+{
+  width:700px;
+  height:900px;
+  top:0px;
+  background: url(Pan.jpg) no-repeat;
+}
+
+#picture07
+{
+  width:900px;
+  height:900px;
+  top:0px;
+  background: url(Hunters at a halt.jpg) no-repeat;
+}
+
+#foto01
+{
+  width:900px;
+  height:900px;
+  top:0px;
+  background: url(couple.jpg) no-repeat;
+}
